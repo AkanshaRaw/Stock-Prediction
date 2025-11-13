@@ -1,4 +1,4 @@
-Stock Price Prediction Project (Linear Regression vs. LSTM)
+##Stock Price Prediction Project (Linear Regression vs. LSTM)
 
 This project demonstrates how to build, train, and evaluate two different models for predicting stock prices using historical data:
 
